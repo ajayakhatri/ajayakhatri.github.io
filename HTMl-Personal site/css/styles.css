@@ -1,0 +1,13 @@
+body {
+  background-color: #fdfaf6;
+}
+h1,h3{
+  color: #a5e1ad;
+}
+hr {
+  background-color: inherit;
+  border-color: grey;
+  border-style: none none dotted none;
+  border-width: 4px;
+  width: 5%;
+}
